@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="REST Assured API Automation" verbose="1" parallel="false">
+    <test name="API and database examples">
+        <packages>
+            <package name="tests"/>
+        </packages>
+    </test>
+</suite>
